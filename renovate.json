@@ -1,9 +1,0 @@
-{
-  "extends": "ikatyang:library",
-  "packages": [
-    {
-      "packageName": "typescript",
-      "automerge": "patch"
-    }
-  ]
-}
